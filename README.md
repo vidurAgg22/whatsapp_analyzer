@@ -14,13 +14,6 @@ The analysis is performed on the WhatsApp group chat data using Python libraries
 - **Word Clouds**: Generate word clouds to visualize the most common words used in the chat.
 - **Heatmap Analysis**: Visualize the message count by day and month using a heatmap.
 
-## Usage
-
-1. Clone the repository: `git clone <repository_url>`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter notebook `whatsapp_chat_analysis.ipynb` to perform the analysis.
-4. View the generated visualizations and insights in the notebook.
-
 ## File Description
 
 - `whatsapp_chat_analysis.ipynb`: Jupyter notebook containing the code for analyzing the WhatsApp group chat.
