@@ -1,6 +1,8 @@
 # WhatsApp Group Chat Analysis
 
 This project analyzes a WhatsApp group chat conversation to gain insights into the communication patterns, most active users, popular emojis, and more.
+https://github.com/vidurAgg22/whatsapp_analyzer/assets/165144144/9df54232-844a-487f-acc3-2220e02b7509
+
 
 ## Introduction
 
